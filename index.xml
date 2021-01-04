@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="dl_hello_world">
+<index version="1" name="dl_hello_world" commit="185c1960d32b68dd82d43639faffee8d75c95135">
+  <category name="Rate by semitones">
+    <reapack name="Rate by semitones.lua" type="script">
+      <version name="1.0" author="Daniel Lumertz" time="2021-01-04T23:44:22Z">
+        <changelog><![CDATA[+ Initial Release]]></changelog>
+        <source main="main">https://github.com/daniellumertz/dl_hello_world/raw/185c1960d32b68dd82d43639faffee8d75c95135/Rate%20by%20semitones/Rate%20by%20semitones.lua</source>
+      </version>
+    </reapack>
+  </category>
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
