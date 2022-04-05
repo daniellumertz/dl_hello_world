@@ -4,16 +4,16 @@
  * Licence: GPL v3
  * REAPER: 6.15
  * Extensions: none
- * Version: 1.0
+ * Version: 1.0pre1
 --]]
  
 --[[
  * Changelog:
- * v1.0 (2016-01-29)
- 	+ Initial Release
+ * v1.0pre1 (2016-01-29)
+ 	+ a change test
 --]]
 
-
+--change
 reaper.Undo_BeginBlock()
 reaper.ShowConsoleMsg("")
 actual_rate = reaper.Master_GetPlayRate( 0 )
